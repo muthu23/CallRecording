@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CallRecording</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_in_to_continue">Sign in to Continue!</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="find_your_account">Find your account</string>
+    <string name="phone_number">Phone number</string>
+    <string name="we_ll_send_you_a_text_verification_code">We\'ll send you a text verification code.</string>
+    <string name="countinue">Countinue</string>
+    <string name="did_not_get">Did not get?</string>
+    <string name="you_can_reset_your_password_here">You can reset your password here.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_leads">Leads</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_change_password">Change password</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="device_description">Disable the Force Stop button using Device Policy Manager API</string>
+    <string name="device_admin_label">Device Admin</string>
+    <string name="title_activity_home_activityy">HomeActivityy</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="no_internet_connection">No Internet Connection!!</string>
+    <string name="check_your_internet_connection_and_try_again">Check your internet connection and try again!.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_edit_and_create_a_new_lead">View, Edit, and create a new Lead</string>
+    <string name="leads">Leads</string>
+    <string name="crmadmin_rltiihm_com">crmadmin@rltiihm.com</string>
+    <string name="crm_admin">CRM Admin</string>
+    <string name="tasks">Tasks</string>
+    <string name="view_tasks">View tasks</string>
+    <string name="enquiry">Enquiry</string>
+    <string name="view_enquiries">View enquiries</string>
+    <string name="timeline">Timeline</string>
+    <string name="view_timeline">View timeline</string>
+
+</resources>

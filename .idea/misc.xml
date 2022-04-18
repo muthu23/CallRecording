@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable-v24/bg_spinner.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/bg_bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/bg_gradient.xml" value="0.1515" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/bg_ripple_dark.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/bg_spinner.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/button_gradient.xml" value="0.1796875" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/edit_text_border.xml" value="0.1796875" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/edit_text_box_border.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/edittext_background.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/enquiry_background.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/expandable_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/home_appbar_gradient.xml" value="0.1796875" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1796875" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_arrow_down.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_arrow_right.xml" value="0.125" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/ic_no_internet.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/leads_background.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/list_selector.xml" value="0.1345" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/task_background.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/drawable/timeline_background.xml" value="0.105" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/activity_home_activityy.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/activity_reset_password.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/app_bar_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/app_bar_home_activityy.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/content_home.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/content_home_activityy.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/custom_dialog.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/dialog_no_internet.xml" value="0.22" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_gallery.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_lead_list.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_leads.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_leads_view.xml" value="0.22" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_profile.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/fragment_slideshow.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/item_dropdown.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/item_dropdown_header.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/item_dropdown_selected.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/item_shape_dropdown.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_group.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_item.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_lead_child.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_lead_head.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_leadsview_item.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_menu.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_sub_lead_head.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/list_submenu.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/nav_header_home.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/layout/nav_header_home_activityy.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/menu/activity_main_drawer.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/menu/home.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/CallRecording/app/src/main/res/xml/my_admin.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/bg_spinner.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_edit_note.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_enquiry.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_message.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_profile.xml" value="0.1725" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/drawable/ic_whatsapp.xml" value="0.1615" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/dialog_no_internet.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/fragment_home.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/fragment_leads_view.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/item_leads_details.xml" value="0.22" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/list_lead_child.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/list_lead_head.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Muthu/AndroidStudioProjects/Mugu Projects/CallRecording/app/src/main/res/layout/list_leadsview_item.xml" value="0.16354166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

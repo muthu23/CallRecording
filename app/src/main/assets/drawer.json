@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "Title": "Facebook",
+      "URL": "com.example.jay.dynamicexpandablelistnavigationdrawer.fragment.FirstFragment"
+    },
+    {
+      "Title": "Youtube",
+      "Child": [
+        {
+          "ChildTitle": "Youtube",
+          "URL": "com.example.jay.dynamicexpandablelistnavigationdrawer.fragment.SecondFragment"
+        }
+      ]
+    },
+    {
+      "Title": "WhatsApp",
+      "Child": [
+        {
+          "ChildTitle": "WhatsApp",
+          "URL": "com.example.jay.dynamicexpandablelistnavigationdrawer.fragment.ThirdFragment"
+        }
+      ]
+    },
+    {
+      "Title": "Twitter",
+      "Child": [
+        {
+          "ChildTitle": "Twitter",
+          "URL": "com.example.jay.dynamicexpandablelistnavigationdrawer.fragment.FourthFragment"
+        },
+        {
+          "ChildTitle": "MyFragment",
+          "URL": "com.example.jay.dynamicexpandablelistnavigationdrawer.fragment.FifthFragment"
+        }
+      ]
+    }
+  ]
+}

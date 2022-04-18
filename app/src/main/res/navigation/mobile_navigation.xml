@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.vingreen.callrecording.view.fragment.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_leads"
+            app:destination="@id/nav_leads" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_profile"
+            app:destination="@id/nav_profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_leads"
+        android:name="com.vingreen.callrecording.view.fragment.leads.LeadsListFragment"
+        android:label="@string/menu_leads"
+        tools:layout="@layout/fragment_lead_list" >
+        <action
+            android:id="@+id/action_nav_leads_to_nav_leads_view"
+            app:destination="@id/nav_leads_view" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.vingreen.callrecording.view.fragment.profile.SlideshowFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_leads_view"
+        android:name="com.vingreen.callrecording.view.fragment.leads.LeadsViewFragment"
+        android:label="@string/menu_leads"
+        tools:layout="@layout/fragment_leads_view" />
+</navigation>
