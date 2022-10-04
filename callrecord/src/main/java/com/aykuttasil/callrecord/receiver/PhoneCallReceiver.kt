@@ -77,13 +77,17 @@ abstract class PhoneCallReceiver : BroadcastReceiver() {
                 }
             TelephonyManager.CALL_STATE_IDLE ->
                 //Went to idle-  this is the end of a call.  What type depends on previous state(s)
-                if (lastState == TelephonyManager.CALL_STATE_RINGING) {
-                    //Ring but no pickup-  a miss
-                    onMissedCall(context, savedNumber, callStartTime)
-                } else if (isIncoming) {
-                    onIncomingCallEnded(context, savedNumber, callStartTime, Date())
-                } else {
-                    onOutgoingCallEnded(context, savedNumber, callStartTime, Date())
+                when {
+                    lastState == TelephonyManager.CALL_STATE_RINGING -> {
+                        //Ring but no pickup-  a miss
+                        onMissedCall(context, savedNumber, callStartTime)
+                    }
+                    isIncoming -> {
+                        onIncomingCallEnded(context, savedNumber, callStartTime, Date())
+                    }
+                    else -> {
+                        onOutgoingCallEnded(context, savedNumber, callStartTime, Date())
+                    }
                 }
         }
         lastState = state
@@ -94,7 +98,6 @@ abstract class PhoneCallReceiver : BroadcastReceiver() {
         private var lastState = TelephonyManager.CALL_STATE_IDLE
         private var callStartTime: Date = Date()
         private var isIncoming: Boolean = false
-        private var savedNumber: String? =
-            null  //because the passed incoming is only valid in ringing
+        private var savedNumber: String? = null  //because the passed incoming is only valid in ringing
     }
 }
